@@ -1,0 +1,3 @@
+[submodule "MASSA_Algorithm"]
+	path = MASSA_Algorithm
+	url = https://github.com/gcverissimo/MASSA_Algorithm
